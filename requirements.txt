@@ -1,0 +1,12 @@
+numpy>=1.24,<2
+scipy>=1.10,<1.14
+pandas>=2.1,<2.3
+OpenMM==8.3.1
+MDAnalysis==2.9.0
+mdtraj==1.10.3
+biopython>=1.85,<1.87
+PyYAML>=6.0,<7
+numba>=0.60,<0.65
+localcider==0.1.21
+joblib>=1.4,<2
+tqdm>=4.66,<5
